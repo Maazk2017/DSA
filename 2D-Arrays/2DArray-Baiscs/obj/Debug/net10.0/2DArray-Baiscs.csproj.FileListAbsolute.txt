@@ -1,0 +1,15 @@
+C:\Users\Hp\Downloads\DSA\2D-Arrays\2DArray-Baiscs\obj\Debug\net10.0\2DArray-Baiscs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Downloads\DSA\2D-Arrays\2DArray-Baiscs\obj\Debug\net10.0\2DArray-Baiscs.AssemblyInfoInputs.cache
+C:\Users\Hp\Downloads\DSA\2D-Arrays\2DArray-Baiscs\obj\Debug\net10.0\2DArray-Baiscs.AssemblyInfo.cs
+C:\Users\Hp\Downloads\DSA\2D-Arrays\2DArray-Baiscs\obj\Debug\net10.0\2DArray-Baiscs.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\DSA\2D-Arrays\2DArray-Baiscs\bin\Debug\net10.0\2DArray-Baiscs.exe
+C:\Users\Hp\Downloads\DSA\2D-Arrays\2DArray-Baiscs\bin\Debug\net10.0\2DArray-Baiscs.deps.json
+C:\Users\Hp\Downloads\DSA\2D-Arrays\2DArray-Baiscs\bin\Debug\net10.0\2DArray-Baiscs.runtimeconfig.json
+C:\Users\Hp\Downloads\DSA\2D-Arrays\2DArray-Baiscs\bin\Debug\net10.0\2DArray-Baiscs.dll
+C:\Users\Hp\Downloads\DSA\2D-Arrays\2DArray-Baiscs\bin\Debug\net10.0\2DArray-Baiscs.pdb
+C:\Users\Hp\Downloads\DSA\2D-Arrays\2DArray-Baiscs\obj\Debug\net10.0\2DArray-Baiscs.dll
+C:\Users\Hp\Downloads\DSA\2D-Arrays\2DArray-Baiscs\obj\Debug\net10.0\refint\2DArray-Baiscs.dll
+C:\Users\Hp\Downloads\DSA\2D-Arrays\2DArray-Baiscs\obj\Debug\net10.0\2DArray-Baiscs.pdb
+C:\Users\Hp\Downloads\DSA\2D-Arrays\2DArray-Baiscs\obj\Debug\net10.0\2DArray-Baiscs.genruntimeconfig.cache
+C:\Users\Hp\Downloads\DSA\2D-Arrays\2DArray-Baiscs\obj\Debug\net10.0\ref\2DArray-Baiscs.dll
+C:\Users\Hp\Downloads\DSA\2D-Arrays\2DArray-Baiscs\obj\Debug\net10.0\2DArray-.27287505.Up2Date

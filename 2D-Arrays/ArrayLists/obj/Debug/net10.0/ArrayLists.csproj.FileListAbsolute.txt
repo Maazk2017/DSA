@@ -1,0 +1,15 @@
+C:\Users\Hp\Downloads\DSA\2D-Arrays\ArrayLists\bin\Debug\net10.0\ArrayLists.exe
+C:\Users\Hp\Downloads\DSA\2D-Arrays\ArrayLists\bin\Debug\net10.0\ArrayLists.deps.json
+C:\Users\Hp\Downloads\DSA\2D-Arrays\ArrayLists\bin\Debug\net10.0\ArrayLists.runtimeconfig.json
+C:\Users\Hp\Downloads\DSA\2D-Arrays\ArrayLists\bin\Debug\net10.0\ArrayLists.dll
+C:\Users\Hp\Downloads\DSA\2D-Arrays\ArrayLists\bin\Debug\net10.0\ArrayLists.pdb
+C:\Users\Hp\Downloads\DSA\2D-Arrays\ArrayLists\obj\Debug\net10.0\ArrayLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Downloads\DSA\2D-Arrays\ArrayLists\obj\Debug\net10.0\ArrayLists.AssemblyInfoInputs.cache
+C:\Users\Hp\Downloads\DSA\2D-Arrays\ArrayLists\obj\Debug\net10.0\ArrayLists.AssemblyInfo.cs
+C:\Users\Hp\Downloads\DSA\2D-Arrays\ArrayLists\obj\Debug\net10.0\ArrayLists.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\DSA\2D-Arrays\ArrayLists\obj\Debug\net10.0\ArrayLists.dll
+C:\Users\Hp\Downloads\DSA\2D-Arrays\ArrayLists\obj\Debug\net10.0\refint\ArrayLists.dll
+C:\Users\Hp\Downloads\DSA\2D-Arrays\ArrayLists\obj\Debug\net10.0\ArrayLists.pdb
+C:\Users\Hp\Downloads\DSA\2D-Arrays\ArrayLists\obj\Debug\net10.0\ArrayLists.genruntimeconfig.cache
+C:\Users\Hp\Downloads\DSA\2D-Arrays\ArrayLists\obj\Debug\net10.0\ref\ArrayLists.dll
+C:\Users\Hp\Downloads\DSA\2D-Arrays\ArrayLists\obj\Debug\net10.0\ArrayLists.csproj.Up2Date

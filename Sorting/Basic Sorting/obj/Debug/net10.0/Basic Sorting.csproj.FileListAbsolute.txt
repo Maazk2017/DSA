@@ -1,0 +1,15 @@
+C:\Users\Hp\Downloads\DSA\Sorting\Basic Sorting\bin\Debug\net10.0\Basic Sorting.exe
+C:\Users\Hp\Downloads\DSA\Sorting\Basic Sorting\bin\Debug\net10.0\Basic Sorting.deps.json
+C:\Users\Hp\Downloads\DSA\Sorting\Basic Sorting\bin\Debug\net10.0\Basic Sorting.runtimeconfig.json
+C:\Users\Hp\Downloads\DSA\Sorting\Basic Sorting\bin\Debug\net10.0\Basic Sorting.dll
+C:\Users\Hp\Downloads\DSA\Sorting\Basic Sorting\bin\Debug\net10.0\Basic Sorting.pdb
+C:\Users\Hp\Downloads\DSA\Sorting\Basic Sorting\obj\Debug\net10.0\Basic Sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Downloads\DSA\Sorting\Basic Sorting\obj\Debug\net10.0\Basic Sorting.AssemblyInfoInputs.cache
+C:\Users\Hp\Downloads\DSA\Sorting\Basic Sorting\obj\Debug\net10.0\Basic Sorting.AssemblyInfo.cs
+C:\Users\Hp\Downloads\DSA\Sorting\Basic Sorting\obj\Debug\net10.0\Basic Sorting.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\DSA\Sorting\Basic Sorting\obj\Debug\net10.0\Basic Sorting.dll
+C:\Users\Hp\Downloads\DSA\Sorting\Basic Sorting\obj\Debug\net10.0\refint\Basic Sorting.dll
+C:\Users\Hp\Downloads\DSA\Sorting\Basic Sorting\obj\Debug\net10.0\Basic Sorting.pdb
+C:\Users\Hp\Downloads\DSA\Sorting\Basic Sorting\obj\Debug\net10.0\Basic Sorting.genruntimeconfig.cache
+C:\Users\Hp\Downloads\DSA\Sorting\Basic Sorting\obj\Debug\net10.0\ref\Basic Sorting.dll
+C:\Users\Hp\Downloads\DSA\Sorting\Basic Sorting\obj\Debug\net10.0\Basic So.DD532F3A.Up2Date

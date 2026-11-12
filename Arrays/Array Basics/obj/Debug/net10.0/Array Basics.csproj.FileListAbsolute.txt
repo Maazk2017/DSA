@@ -1,0 +1,15 @@
+C:\Users\Hp\Downloads\DSA\Arrays\Array Basics\bin\Debug\net10.0\Array Basics.exe
+C:\Users\Hp\Downloads\DSA\Arrays\Array Basics\bin\Debug\net10.0\Array Basics.deps.json
+C:\Users\Hp\Downloads\DSA\Arrays\Array Basics\bin\Debug\net10.0\Array Basics.runtimeconfig.json
+C:\Users\Hp\Downloads\DSA\Arrays\Array Basics\bin\Debug\net10.0\Array Basics.dll
+C:\Users\Hp\Downloads\DSA\Arrays\Array Basics\bin\Debug\net10.0\Array Basics.pdb
+C:\Users\Hp\Downloads\DSA\Arrays\Array Basics\obj\Debug\net10.0\Array Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Downloads\DSA\Arrays\Array Basics\obj\Debug\net10.0\Array Basics.AssemblyInfoInputs.cache
+C:\Users\Hp\Downloads\DSA\Arrays\Array Basics\obj\Debug\net10.0\Array Basics.AssemblyInfo.cs
+C:\Users\Hp\Downloads\DSA\Arrays\Array Basics\obj\Debug\net10.0\Array Basics.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\DSA\Arrays\Array Basics\obj\Debug\net10.0\Array Basics.dll
+C:\Users\Hp\Downloads\DSA\Arrays\Array Basics\obj\Debug\net10.0\refint\Array Basics.dll
+C:\Users\Hp\Downloads\DSA\Arrays\Array Basics\obj\Debug\net10.0\Array Basics.pdb
+C:\Users\Hp\Downloads\DSA\Arrays\Array Basics\obj\Debug\net10.0\Array Basics.genruntimeconfig.cache
+C:\Users\Hp\Downloads\DSA\Arrays\Array Basics\obj\Debug\net10.0\ref\Array Basics.dll
+C:\Users\Hp\Downloads\DSA\Arrays\Array Basics\obj\Debug\net10.0\Array Ba.C320FED2.Up2Date

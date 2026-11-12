@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Downloads\\DSA\\Arrays\\Array Basics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{038580D1-E1AA-28D0-2D8F-AD571523FD4E}|Array Basics.csproj|c:\\users\\hp\\downloads\\dsa\\arrays\\array basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038580D1-E1AA-28D0-2D8F-AD571523FD4E}|Array Basics.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038580D1-E1AA-28D0-2D8F-AD571523FD4E}|Array Basics.csproj|c:\\users\\hp\\downloads\\dsa\\arrays\\array basics\\arrayquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038580D1-E1AA-28D0-2D8F-AD571523FD4E}|Array Basics.csproj|solutionrelative:arrayquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayQuestions.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\DSA\\Arrays\\Array Basics\\ArrayQuestions.cs",
+              "RelativeDocumentMoniker": "ArrayQuestions.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\DSA\\Arrays\\Array Basics\\ArrayQuestions.cs",
+              "RelativeToolTip": "ArrayQuestions.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwEQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T10:21:35.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\DSA\\Arrays\\Array Basics\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\DSA\\Arrays\\Array Basics\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T11:52:24.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

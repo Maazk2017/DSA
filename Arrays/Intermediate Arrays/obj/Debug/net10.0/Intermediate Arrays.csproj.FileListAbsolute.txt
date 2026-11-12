@@ -1,0 +1,15 @@
+C:\Users\Hp\Downloads\DSA\Arrays\Intermediate Arrays\bin\Debug\net10.0\Intermediate Arrays.exe
+C:\Users\Hp\Downloads\DSA\Arrays\Intermediate Arrays\bin\Debug\net10.0\Intermediate Arrays.deps.json
+C:\Users\Hp\Downloads\DSA\Arrays\Intermediate Arrays\bin\Debug\net10.0\Intermediate Arrays.runtimeconfig.json
+C:\Users\Hp\Downloads\DSA\Arrays\Intermediate Arrays\bin\Debug\net10.0\Intermediate Arrays.dll
+C:\Users\Hp\Downloads\DSA\Arrays\Intermediate Arrays\bin\Debug\net10.0\Intermediate Arrays.pdb
+C:\Users\Hp\Downloads\DSA\Arrays\Intermediate Arrays\obj\Debug\net10.0\Intermediate Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Downloads\DSA\Arrays\Intermediate Arrays\obj\Debug\net10.0\Intermediate Arrays.AssemblyInfoInputs.cache
+C:\Users\Hp\Downloads\DSA\Arrays\Intermediate Arrays\obj\Debug\net10.0\Intermediate Arrays.AssemblyInfo.cs
+C:\Users\Hp\Downloads\DSA\Arrays\Intermediate Arrays\obj\Debug\net10.0\Intermediate Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\DSA\Arrays\Intermediate Arrays\obj\Debug\net10.0\Intermediate Arrays.dll
+C:\Users\Hp\Downloads\DSA\Arrays\Intermediate Arrays\obj\Debug\net10.0\refint\Intermediate Arrays.dll
+C:\Users\Hp\Downloads\DSA\Arrays\Intermediate Arrays\obj\Debug\net10.0\Intermediate Arrays.pdb
+C:\Users\Hp\Downloads\DSA\Arrays\Intermediate Arrays\obj\Debug\net10.0\Intermediate Arrays.genruntimeconfig.cache
+C:\Users\Hp\Downloads\DSA\Arrays\Intermediate Arrays\obj\Debug\net10.0\ref\Intermediate Arrays.dll
+C:\Users\Hp\Downloads\DSA\Arrays\Intermediate Arrays\obj\Debug\net10.0\Intermed.94494AD2.Up2Date
