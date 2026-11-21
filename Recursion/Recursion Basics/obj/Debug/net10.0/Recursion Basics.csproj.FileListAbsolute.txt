@@ -1,0 +1,15 @@
+C:\Users\Hp\Downloads\ASPNET\Recursion Basics\bin\Debug\net10.0\Recursion Basics.exe
+C:\Users\Hp\Downloads\ASPNET\Recursion Basics\bin\Debug\net10.0\Recursion Basics.deps.json
+C:\Users\Hp\Downloads\ASPNET\Recursion Basics\bin\Debug\net10.0\Recursion Basics.runtimeconfig.json
+C:\Users\Hp\Downloads\ASPNET\Recursion Basics\bin\Debug\net10.0\Recursion Basics.dll
+C:\Users\Hp\Downloads\ASPNET\Recursion Basics\bin\Debug\net10.0\Recursion Basics.pdb
+C:\Users\Hp\Downloads\ASPNET\Recursion Basics\obj\Debug\net10.0\Recursion Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Downloads\ASPNET\Recursion Basics\obj\Debug\net10.0\Recursion Basics.AssemblyInfoInputs.cache
+C:\Users\Hp\Downloads\ASPNET\Recursion Basics\obj\Debug\net10.0\Recursion Basics.AssemblyInfo.cs
+C:\Users\Hp\Downloads\ASPNET\Recursion Basics\obj\Debug\net10.0\Recursion Basics.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\ASPNET\Recursion Basics\obj\Debug\net10.0\Recursion Basics.dll
+C:\Users\Hp\Downloads\ASPNET\Recursion Basics\obj\Debug\net10.0\refint\Recursion Basics.dll
+C:\Users\Hp\Downloads\ASPNET\Recursion Basics\obj\Debug\net10.0\Recursion Basics.pdb
+C:\Users\Hp\Downloads\ASPNET\Recursion Basics\obj\Debug\net10.0\Recursion Basics.genruntimeconfig.cache
+C:\Users\Hp\Downloads\ASPNET\Recursion Basics\obj\Debug\net10.0\ref\Recursion Basics.dll
+C:\Users\Hp\Downloads\ASPNET\Recursion Basics\obj\Debug\net10.0\Recursio.F588CC67.Up2Date

@@ -1,0 +1,15 @@
+C:\Users\Hp\Downloads\ASPNET\Basic Binary Search\bin\Debug\net10.0\Basic Binary Search.exe
+C:\Users\Hp\Downloads\ASPNET\Basic Binary Search\bin\Debug\net10.0\Basic Binary Search.deps.json
+C:\Users\Hp\Downloads\ASPNET\Basic Binary Search\bin\Debug\net10.0\Basic Binary Search.runtimeconfig.json
+C:\Users\Hp\Downloads\ASPNET\Basic Binary Search\bin\Debug\net10.0\Basic Binary Search.dll
+C:\Users\Hp\Downloads\ASPNET\Basic Binary Search\bin\Debug\net10.0\Basic Binary Search.pdb
+C:\Users\Hp\Downloads\ASPNET\Basic Binary Search\obj\Debug\net10.0\Basic Binary Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Downloads\ASPNET\Basic Binary Search\obj\Debug\net10.0\Basic Binary Search.AssemblyInfoInputs.cache
+C:\Users\Hp\Downloads\ASPNET\Basic Binary Search\obj\Debug\net10.0\Basic Binary Search.AssemblyInfo.cs
+C:\Users\Hp\Downloads\ASPNET\Basic Binary Search\obj\Debug\net10.0\Basic Binary Search.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\ASPNET\Basic Binary Search\obj\Debug\net10.0\Basic Binary Search.dll
+C:\Users\Hp\Downloads\ASPNET\Basic Binary Search\obj\Debug\net10.0\refint\Basic Binary Search.dll
+C:\Users\Hp\Downloads\ASPNET\Basic Binary Search\obj\Debug\net10.0\Basic Binary Search.pdb
+C:\Users\Hp\Downloads\ASPNET\Basic Binary Search\obj\Debug\net10.0\Basic Binary Search.genruntimeconfig.cache
+C:\Users\Hp\Downloads\ASPNET\Basic Binary Search\obj\Debug\net10.0\ref\Basic Binary Search.dll
+C:\Users\Hp\Downloads\ASPNET\Basic Binary Search\obj\Debug\net10.0\Basic Bi.F84EF00F.Up2Date
