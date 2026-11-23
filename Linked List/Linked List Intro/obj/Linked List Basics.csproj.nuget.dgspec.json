@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hp\\Downloads\\Uni Assignments Notes Books\\3sem\\DSAL\\Assignments\\Linked List Basics\\Linked List Basics.csproj": {}
+    "C:\\Users\\Hp\\Downloads\\DSA\\Linked List\\Linked List Intro\\Linked List Basics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hp\\Downloads\\Uni Assignments Notes Books\\3sem\\DSAL\\Assignments\\Linked List Basics\\Linked List Basics.csproj": {
+    "C:\\Users\\Hp\\Downloads\\DSA\\Linked List\\Linked List Intro\\Linked List Basics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\Downloads\\Uni Assignments Notes Books\\3sem\\DSAL\\Assignments\\Linked List Basics\\Linked List Basics.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\Downloads\\DSA\\Linked List\\Linked List Intro\\Linked List Basics.csproj",
         "projectName": "Linked List Basics",
-        "projectPath": "C:\\Users\\Hp\\Downloads\\Uni Assignments Notes Books\\3sem\\DSAL\\Assignments\\Linked List Basics\\Linked List Basics.csproj",
+        "projectPath": "C:\\Users\\Hp\\Downloads\\DSA\\Linked List\\Linked List Intro\\Linked List Basics.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\Downloads\\Uni Assignments Notes Books\\3sem\\DSAL\\Assignments\\Linked List Basics\\obj\\",
+        "outputPath": "C:\\Users\\Hp\\Downloads\\DSA\\Linked List\\Linked List Intro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

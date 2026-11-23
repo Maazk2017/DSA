@@ -30,8 +30,7 @@
 
             // 1) Displaying
 
-            //DisplayLinkedList.display(a);
-            //DisplayLinkedList.displayRecursive(a);
+            //DisplayLinkedList.display(a);            //DisplayLinkedList.displayRecursive(a);
 
             // 2) Getting
             //Console.Write(GetLinkedList.getNode(a, 3));
@@ -42,8 +41,11 @@
             l1.addAtTail(20);
             l1.addAtTail(30);
             l1.addAtTail(40);
+            //l1.display();
+            //l1.addAtHead(5);
+            //Console.WriteLine(" ");
             l1.display();
-            l1.addAtHead(5);
+            l1.insert(2, 15);
             Console.WriteLine(" ");
             l1.display();
         }

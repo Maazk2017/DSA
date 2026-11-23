@@ -13,3 +13,19 @@ C:\Users\Hp\Downloads\Uni Assignments Notes Books\3sem\DSAL\Assignments\Linked L
 C:\Users\Hp\Downloads\Uni Assignments Notes Books\3sem\DSAL\Assignments\Linked List Basics\obj\Debug\net10.0\Linked List Basics.genruntimeconfig.cache
 C:\Users\Hp\Downloads\Uni Assignments Notes Books\3sem\DSAL\Assignments\Linked List Basics\obj\Debug\net10.0\ref\Linked List Basics.dll
 C:\Users\Hp\Downloads\Uni Assignments Notes Books\3sem\DSAL\Assignments\Linked List Basics\obj\Debug\net10.0\Linked L.F48AC5F1.Up2Date
+C:\Users\Hp\Downloads\DSA\Linked List\Linked List Intro\bin\Debug\net10.0\Linked List Basics.exe
+C:\Users\Hp\Downloads\DSA\Linked List\Linked List Intro\bin\Debug\net10.0\Linked List Basics.deps.json
+C:\Users\Hp\Downloads\DSA\Linked List\Linked List Intro\bin\Debug\net10.0\Linked List Basics.runtimeconfig.json
+C:\Users\Hp\Downloads\DSA\Linked List\Linked List Intro\bin\Debug\net10.0\Linked List Basics.dll
+C:\Users\Hp\Downloads\DSA\Linked List\Linked List Intro\bin\Debug\net10.0\Linked List Basics.pdb
+C:\Users\Hp\Downloads\DSA\Linked List\Linked List Intro\obj\Debug\net10.0\Linked List Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Downloads\DSA\Linked List\Linked List Intro\obj\Debug\net10.0\Linked List Basics.AssemblyInfoInputs.cache
+C:\Users\Hp\Downloads\DSA\Linked List\Linked List Intro\obj\Debug\net10.0\Linked List Basics.AssemblyInfo.cs
+C:\Users\Hp\Downloads\DSA\Linked List\Linked List Intro\obj\Debug\net10.0\Linked List Basics.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\DSA\Linked List\Linked List Intro\obj\Debug\net10.0\Linked List Basics.sourcelink.json
+C:\Users\Hp\Downloads\DSA\Linked List\Linked List Intro\obj\Debug\net10.0\Linked List Basics.dll
+C:\Users\Hp\Downloads\DSA\Linked List\Linked List Intro\obj\Debug\net10.0\refint\Linked List Basics.dll
+C:\Users\Hp\Downloads\DSA\Linked List\Linked List Intro\obj\Debug\net10.0\Linked List Basics.pdb
+C:\Users\Hp\Downloads\DSA\Linked List\Linked List Intro\obj\Debug\net10.0\Linked List Basics.genruntimeconfig.cache
+C:\Users\Hp\Downloads\DSA\Linked List\Linked List Intro\obj\Debug\net10.0\ref\Linked List Basics.dll
+C:\Users\Hp\Downloads\DSA\Linked List\Linked List Intro\obj\Debug\net10.0\Linked L.F48AC5F1.Up2Date

@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hp\\Downloads\\Uni Assignments Notes Books\\3sem\\DSAL\\Assignments\\Linked List Basics\\",
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Downloads\\DSA\\Linked List\\Linked List Intro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{887DA232-F1D0-2EE1-8F72-528200C69F16}|Linked List Basics.csproj|c:\\users\\hp\\downloads\\uni assignments notes books\\3sem\\dsal\\assignments\\linked list basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{887DA232-F1D0-2EE1-8F72-528200C69F16}|Linked List Basics.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{887DA232-F1D0-2EE1-8F72-528200C69F16}|Linked List Basics.csproj|c:\\users\\hp\\downloads\\uni assignments notes books\\3sem\\dsal\\assignments\\linked list basics\\linkedlistdatastructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{887DA232-F1D0-2EE1-8F72-528200C69F16}|Linked List Basics.csproj|c:\\users\\hp\\downloads\\dsa\\linked list\\linked list intro\\linkedlistdatastructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{887DA232-F1D0-2EE1-8F72-528200C69F16}|Linked List Basics.csproj|solutionrelative:linkedlistdatastructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{887DA232-F1D0-2EE1-8F72-528200C69F16}|Linked List Basics.csproj|c:\\users\\hp\\downloads\\uni assignments notes books\\3sem\\dsal\\assignments\\linked list basics\\displaylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{887DA232-F1D0-2EE1-8F72-528200C69F16}|Linked List Basics.csproj|c:\\users\\hp\\downloads\\dsa\\linked list\\linked list intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887DA232-F1D0-2EE1-8F72-528200C69F16}|Linked List Basics.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887DA232-F1D0-2EE1-8F72-528200C69F16}|Linked List Basics.csproj|c:\\users\\hp\\downloads\\dsa\\linked list\\linked list intro\\displaylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{887DA232-F1D0-2EE1-8F72-528200C69F16}|Linked List Basics.csproj|solutionrelative:displaylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{887DA232-F1D0-2EE1-8F72-528200C69F16}|Linked List Basics.csproj|c:\\users\\hp\\downloads\\uni assignments notes books\\3sem\\dsal\\assignments\\linked list basics\\getlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{887DA232-F1D0-2EE1-8F72-528200C69F16}|Linked List Basics.csproj|c:\\users\\hp\\downloads\\dsa\\linked list\\linked list intro\\getlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{887DA232-F1D0-2EE1-8F72-528200C69F16}|Linked List Basics.csproj|solutionrelative:getlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "LinkedListDataStructure.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Uni Assignments Notes Books\\3sem\\DSAL\\Assignments\\Linked List Basics\\LinkedListDataStructure.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\DSA\\Linked List\\Linked List Intro\\LinkedListDataStructure.cs",
               "RelativeDocumentMoniker": "LinkedListDataStructure.cs",
-              "ToolTip": "C:\\Users\\Hp\\Downloads\\Uni Assignments Notes Books\\3sem\\DSAL\\Assignments\\Linked List Basics\\LinkedListDataStructure.cs",
-              "RelativeToolTip": "LinkedListDataStructure.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwDUAAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\DSA\\Linked List\\Linked List Intro\\LinkedListDataStructure.cs*",
+              "RelativeToolTip": "LinkedListDataStructure.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwFkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-22T09:51:25.693Z",
               "EditorCaption": ""
@@ -45,37 +45,35 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "GetLinkedList.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Uni Assignments Notes Books\\3sem\\DSAL\\Assignments\\Linked List Basics\\GetLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\DSA\\Linked List\\Linked List Intro\\GetLinkedList.cs",
               "RelativeDocumentMoniker": "GetLinkedList.cs",
-              "ToolTip": "C:\\Users\\Hp\\Downloads\\Uni Assignments Notes Books\\3sem\\DSAL\\Assignments\\Linked List Basics\\GetLinkedList.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\DSA\\Linked List\\Linked List Intro\\GetLinkedList.cs",
               "RelativeToolTip": "GetLinkedList.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-22T09:38:49.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-22T09:38:49.012Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "DisplayLinkedList.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Uni Assignments Notes Books\\3sem\\DSAL\\Assignments\\Linked List Basics\\DisplayLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\DSA\\Linked List\\Linked List Intro\\DisplayLinkedList.cs",
               "RelativeDocumentMoniker": "DisplayLinkedList.cs",
-              "ToolTip": "C:\\Users\\Hp\\Downloads\\Uni Assignments Notes Books\\3sem\\DSAL\\Assignments\\Linked List Basics\\DisplayLinkedList.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\DSA\\Linked List\\Linked List Intro\\DisplayLinkedList.cs",
               "RelativeToolTip": "DisplayLinkedList.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-22T08:13:02.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-22T08:13:02.988Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Uni Assignments Notes Books\\3sem\\DSAL\\Assignments\\Linked List Basics\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\DSA\\Linked List\\Linked List Intro\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Hp\\Downloads\\Uni Assignments Notes Books\\3sem\\DSAL\\Assignments\\Linked List Basics\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\DSA\\Linked List\\Linked List Intro\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA7wCAAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-21T22:04:12.952Z",
               "EditorCaption": ""
